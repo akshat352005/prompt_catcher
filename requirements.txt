@@ -1,0 +1,15 @@
+streamlit>=1.32.0
+torch
+torchvision
+transformers
+sentence-transformers
+scikit-learn
+xgboost
+imbalanced-learn
+pandas
+numpy
+matplotlib
+seaborn
+datasets
+tqdm
+joblib
